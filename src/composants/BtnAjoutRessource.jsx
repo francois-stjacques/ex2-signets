@@ -3,10 +3,7 @@ import AddCircleIcon from '@material-ui/icons/AddCircle';
 
 export default function BtnAjoutRessource() {
   return (
-    <button className="BtnAjoutRessource">
-        {/* <AddCircleIcon> */}
-      +
-    {/* </AddCircleIcon> */}
-    </button>
+        <AddCircleIcon className="BtnAjoutRessource" fontSize="large">
+    </AddCircleIcon>
   );
 }

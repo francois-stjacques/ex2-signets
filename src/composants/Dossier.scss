@@ -4,20 +4,14 @@ article {
 
 ul {
     list-style-type: none;
-    // display: inline-block;
-    // align-content: space-between;
     display: flex;
-    justify-content: center;
+    justify-content: space-around;
     align-items: center;
 }
 
 .Dossier img {
     margin-right: 4px;
 }
-
-// .info {
-//     background-color: purple;
-// }
 
 h2 {
     margin: 0;
